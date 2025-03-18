@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Wilson (Don't Starve Together)",
+        "info": {
+            "Title": "The Gentleman Scientist",
+            "Birthday": "April 23",
+            "Motto": "\"I will conquer this world with the power of my MIND!\"",
+            "Curio Cabinet Bio": "At heart Wilson is truly a man of science. It's not in his nature to resist the call of the unknown.",
+            "Odds of Survival": "Slim",
+            "Perks & Quirks": "Grows a magnificent beard",
+            "Special Filter": "",
+            "Favorite Food": "",
+            "Code": "\"wilson\""
+        },
+        "stats": {
+            "Health": "150",
+            "Hunger": "150",
+            "Sanity": "200"
+        }
+    },
+    {
+        "name": "Willow (Don't Starve Together)",
+        "info": {
+            "Title": "The Firestarter",
+            "Birthday": "May 7",
+            "Motto": "\"All will bathe in the prettiest of flames.\"",
+            "Curio Cabinet Bio": "Willow is a candid woman whose penchant for fire often gets her into more than a little trouble.",
+            "Odds of Survival": "Slim",
+            "Perks & Quirks": "Has a fondness for fire, but hates the coldProtected by her cuddly bear, BernieHas a reliable lighter",
+            "Special Filter": "",
+            "Sanity Modifier": "-1.1x and +1.1xup to +11/min per nearby",
+            "Special Item(s)": "",
+            "Starting Item(s)": "",
+            "Favorite Food": "",
+            "Code": "\"willow\""
+        },
+        "stats": {
+            "Health": "150",
+            "Hunger": "150",
+            "Sanity": "120"
+        }
+    },
+    {
+        "name": "Wolfgang (Don't Starve Together)",
+        "info": {
+            "Title": "The Strongman",
+            "Birthday": "October 2",
+            "Motto": "\"I am mighty! No one is mightier!\"",
+            "Curio Cabinet Bio": "Wolfgang is an affable, musclebound giant with a heart plagued by a myriad of phobias.",
+            "Odds of Survival": "Grim",
+            "Perks & Quirks": "Needs to work out to become mightyBecomes wimpy over timeBurns a lot of caloriesIs afraid of monsters and the dark",
+            "Special Filter": "",
+            "Damage Modifier": "0.75×, 1× or 2×",
+            "Hunger Modifier": "-0.75× to -1×",
+            "Sanity Modifier": "-1.25× to -1.1×",
+            "Special Item(s)": "",
+            "Starting Item(s)": "",
+            "Favorite Food": "",
+            "Code": "\"wolfgang\""
+        },
+        "stats": {
+            "Health": "200",
+            "Hunger": "200",
+            "Sanity": "200"
+        }
+    },
+    {
+        "name": "Wendy (Don't Starve Together)",
+        "info": {
+            "Title": "The Bereaved",
+            "Birthday": "November 11",
+            "Motto": "\"Abigail? Come back! I'm not done playing with you.\"",
+            "Curio Cabinet Bio": "Wendy is a morose young lady with a sisterly bond so powerful, it transcends death itself.",
+            "Odds of Survival": "Slim",
+            "Perks & Quirks": "Is haunted by her twin sisterFeels comfortable in the darkDabbles in EctoherbologyDoesn't hit very hard",
+            "Special Filter": "",
+            "Damage Modifier": "0.75×",
+            "Sanity Modifier": "0.75×",
+            "Special Item(s)": "",
+            "Starting Item(s)": "",
+            "Favorite Food": "",
+            "Code": "\"wendy\""
+        },
+        "stats": {
+            "Health": "150",
+            "Hunger": "150",
+            "Sanity": "200"
+        }
+    },
+    {
+        "name": "WX-78 (Don't Starve Together)",
+        "info": {
+            "Title": "The Soulless Automaton",
+            "Buildday": "November 28",
+            "Motto": "\"EMPATHY MODULE NOT RESPONDING\"",
+            "Curio Cabinet Bio": "One might assume WX's callous nature hides a sensitive inner soul. One would assume incorrectly.",
+            "Odds of Survival": "Grim",
+            "Perks & Quirks": "Can upgrade with circuitsNot a picky eaterIs charged by lightning, but damaged by water",
+            "Special Filter": "WX-78",
+            "Health Modifier": "-3 to -9 when wet",
+            "Hunger Modifier": "-1× to -0.512×",
+            "Speed Modifier": "1× to 1.5×",
+            "Special Item(s)": "",
+            "Starting Item(s)": "",
+            "Favorite Food": "",
+            "Code": "\"wx78\""
+        },
+        "stats": {
+            "Health": "125",
+            "Hunger": "125",
+            "Sanity": "150"
+        }
+    },
+    {
+        "name": "Wickerbottom (Don't Starve Together)",
+        "info": {
+            "Title": "The Librarian",
+            "Birthday": "December 6",
+            "Motto": "\"Shhhh! No talking!\"",
+            "Curio Cabinet Bio": "A woman of curious mind and stern air, Wickerbottom thrives on the lifelong pursuit of knowledge.",
+            "Odds of Survival": "Grim",
+            "Perks & Quirks": "Knows many thingsSelf publishes booksSuffers from insomniaHas a delicate stomach",
+            "Special Item(s)": "",
+            "Starting Item(s)": "×2",
+            "Favorite Food": "",
+            "Code": "\"wickerbottom\""
+        },
+        "stats": {
+            "Health": "125",
+            "Hunger": "150",
+            "Sanity": "250"
+        }
+    },
+    {
+        "name": "Woodie (Don't Starve Together)",
+        "info": {
+            "Beaverness": "100",
+            "Special Item(s)": "",
+            "Starting Item(s)": "",
+            "Favorite Food": "",
+            "Code": "\"woodie\""
+        },
+        "stats": {
+            "Health": "150",
+            "Hunger": "150",
+            "Sanity": "200"
+        }
+    },
+    {
+        "name": "Wes (Don't Starve Together)",
+        "info": {
+            "Damage Modifier": "0.75×",
+            "Special Item(s)": "",
+            "Starting Item(s)": "",
+            "Favorite Food": "",
+            "Code": "\"wes\""
+        },
+        "stats": {
+            "Health": "75",
+            "Hunger": "75",
+            "Sanity": "75"
+        }
+    },
+    {
+        "name": "Maxwell (Don't Starve Together)",
+        "info": {
+            "Sanity Modifier": "+6.67/min",
+            "Special Item(s)": "",
+            "Starting Item(s)": "×6",
+            "Favorite Food": "",
+            "Code": "\"waxwell\""
+        },
+        "stats": {
+            "Health": "75",
+            "Hunger": "150",
+            "Sanity": "200"
+        }
+    },
+    {
+        "name": "Wigfrid (Don't Starve Together)",
+        "info": {
+            "Damage Modifier": "1.25× (caused) and 0.75× (taken)",
+            "Special Item(s)": "(insight)",
+            "Starting Item(s)": "×4",
+            "Favorite Food": "",
+            "Code": "\"wathgrithr\""
+        },
+        "stats": {
+            "Health": "200",
+            "Hunger": "120",
+            "Sanity": "120"
+        }
+    },
+    {
+        "name": "Webber (Don't Starve Together)",
+        "info": {
+            "Special Item(s)": "",
+            "Starting Item(s)": "×2",
+            "Favorite Food": "",
+            "Code": "\"webber\""
+        },
+        "stats": {
+            "Health": "175",
+            "Hunger": "175",
+            "Sanity": "100"
+        }
+    },
+    {
+        "name": "Winona (Don't Starve Together)",
+        "info": {
+            "Special Item(s)": "",
+            "Starting Item(s)": "×3",
+            "Favorite Food": "",
+            "Code": "\"winona\""
+        },
+        "stats": {
+            "Health": "150",
+            "Hunger": "150",
+            "Sanity": "200"
+        }
+    },
+    {
+        "name": "Warly (Don't Starve Together)",
+        "info": {
+            "Hunger Modifier": "-1.2×",
+            "Special Item(s)": "",
+            "Starting Item(s)": "×2",
+            "Favorite Food": "None",
+            "Code": "\"warly\""
+        },
+        "stats": {
+            "Health": "150",
+            "Hunger": "250",
+            "Sanity": "200"
+        }
+    },
+    {
+        "name": "Wortox (Don't Starve Together)",
+        "info": {
+            "Sanity Modifier": "0.5× vs. Monsters",
+            "Special Item(s)": "",
+            "Starting Item(s)": "×6",
+            "Favorite Food": "and",
+            "Code": "\"wortox\""
+        },
+        "stats": {
+            "Health": "200",
+            "Hunger": "175",
+            "Sanity": "150"
+        }
+    },
+    {
+        "name": "Wormwood (Don't Starve Together)",
+        "info": {
+            "Special Item(s)": "",
+            "Favorite Food": "",
+            "Code": "\"wormwood\""
+        },
+        "stats": {
+            "Health": "150",
+            "Hunger": "150",
+            "Sanity": "200"
+        }
+    },
+    {
+        "name": "Wurt (Don't Starve Together)",
+        "info": {
+            "Speed Modifier": "×1 or ×1.3",
+            "Special Item(s)": "",
+            "Favorite Food": "and",
+            "Code": "\"wurt\""
+        },
+        "stats": {
+            "Health": "150",
+            "Hunger": "200",
+            "Sanity": "150"
+        }
+    },
+    {
+        "name": "Walter (Don't Starve Together)",
+        "info": {
+            "Damage Modifier": "+10 when attacked by Bee Mob",
+            "Hunger Modifier": "-0.5× when Sleeping",
+            "Sanity Modifier": "0 in darkness, when being near monster, structures and/or wearing clothes, 1 when being effected by magic, +6/min when being near Trees, up to -12/min when health is not full",
+            "Special Item(s)": "",
+            "Starting Item(s)": "×10",
+            "Favorite Food": "",
+            "Code": "\"walter\""
+        },
+        "stats": {
+            "Health": "130",
+            "Hunger": "110",
+            "Sanity": "200"
+        }
+    },
+    {
+        "name": "Wanda (Don't Starve Together)",
+        "info": {
+            "Special Item(s)": "",
+            "Starting Item(s)": ", ×3",
+            "Favorite Food": "",
+            "Code": "\"wanda\""
+        },
+        "stats": {
+            "Health": "0",
+            "Hunger": "175",
+            "Sanity": "200"
+        }
+    },
+    {
+        "name": "Wonkey (Don't Starve Together)",
+        "info": {
+            "Favorite Food": "",
+            "Code": "\"wonkey\""
+        },
+        "stats": {
+            "Health": "125",
+            "Hunger": "175",
+            "Sanity": "100"
+        }
+    }
+]
